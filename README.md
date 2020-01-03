@@ -8,6 +8,10 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - (30 décembre 2019) mise à jour de la page
 ```
 
+**Exercice :
+
+- [exercices.pdf](docs/exoMAT7381.pdf)
+
 **Devoir : lecture d'article**
 
 - [Candes & Tao (2005)](https://arxiv.org/pdf/math/0502327.pdf) *Decoding by Linear Programming* 
