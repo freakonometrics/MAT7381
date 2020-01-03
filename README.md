@@ -13,7 +13,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - [Candes & Tao (2005)](https://arxiv.org/pdf/math/0502327.pdf) *Decoding by Linear Programming* 
 - [Aigner, Amemiya & Poirier (1976)](https://www.jstor.org/stable/2525708) *On the Estimation of Production Frontiers: Maximum Likelihood Estimation of the Parameters of a Discontinuous Density Function*
 - [Atkinson & Cheng (1999)](https://link.springer.com/article/10.1023%2FA%3A1008942604045) *Computing least trimmed squares regression with the forward search*  
-- [Efron, Hastie, Johnstone & Tibshirani (2004)]http://statweb.stanford.edu/~tibs/ftp/lars.pdf() *Least Angle Regression*
+- [Efron, Hastie, Johnstone & Tibshirani (2004)](http://statweb.stanford.edu/~tibs/ftp/lars.pdf) *Least Angle Regression*
 - [Friedman (1991)](https://projecteuclid.org/euclid.aos/1176347963) *Multivariate Adaptive Regression Splines*
 - [Golub and Reinsch (1970)](https://link.springer.com/article/10.1007/BF02163027) *Singular Value Decomposition and Least Squares Solutions*
 - [Zhou, Li & Zhu (2013)](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2013.776499) *Tensor regression with applications in neuroimaging data analysis*
