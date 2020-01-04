@@ -8,11 +8,11 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - (30 décembre 2019) mise à jour de la page
 ```
 
-### Exercice :
+**Exercice :**
 
 - [exercices.pdf](docs/exoMAT7381.pdf)
 
-### Devoir : lecture d'article**
+**Devoir : lecture d'article**
 
 - [Candes & Tao (2005)](https://arxiv.org/pdf/math/0502327.pdf) *Decoding by Linear Programming* 
 - [Aigner, Amemiya & Poirier (1976)](https://www.jstor.org/stable/2525708) *On the Estimation of Production Frontiers: Maximum Likelihood Estimation of the Parameters of a Discontinuous Density Function*
