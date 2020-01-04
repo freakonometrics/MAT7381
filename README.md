@@ -10,7 +10,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 **Exercice :**
 
-- [exercices.pdf](docs/exoMAT7381.pdf)
+- [exercices.pdf](docs/MAT7381-exercices-03012020.pdf)
 
 **Devoir : lecture d'article**
 
