@@ -11,7 +11,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 **"Notes de cours" et codes :**
 
-- [MAT7381.html](freakonometrics.free.fr/MAT7381/MAT7381-H2020.html)
+- [MAT7381.html](http://freakonometrics.free.fr/MAT7381/MAT7381-H2020.html)
 
 **Références en R :**
 
