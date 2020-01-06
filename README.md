@@ -8,6 +8,18 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - (30 décembre 2019) mise à jour de la page
 ```
 
+
+**"Notes de cours" et codes :**
+
+- [MAT7381.html](freakonometrics.free.fr/MAT7381/MAT7381-H2020.html)
+
+**Références en R :**
+
+- Julien Barnier, R Markdown [http://larmarange.github.io/](http://larmarange.github.io/analyse-R/rmarkdown-les-rapports-automatises.html)
+- Gruber, John, Markdown: Syntax [https://daringfireball.net/](https://daringfireball.net/projects/markdown/syntax)
+- Yihui Xie, J. J. Allaire & Garrett Grolemund, R Markdown: The Definitive Guide [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
+- RStudio, R Markdown [https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/lesson-1.html)
+
 **Exercice :**
 
 - [exercices.pdf](docs/MAT7381-exercices-03012020.pdf)
