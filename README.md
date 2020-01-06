@@ -17,7 +17,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 - Julien Barnier, R Markdown [http://larmarange.github.io/](http://larmarange.github.io/analyse-R/rmarkdown-les-rapports-automatises.html)
 - Gruber, John, Markdown: Syntax [https://daringfireball.net/](https://daringfireball.net/projects/markdown/syntax)
-- Yihui Xie, J. J. Allaire & Garrett Grolemund, R Markdown: The Definitive Guide [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
+- Yihui Xie, J. J. Allaire & Garrett Grolemund, R Markdown: The Definitive Guide [https://bookdown.org/yihui](https://bookdown.org/yihui/rmarkdown/)
 - RStudio, R Markdown [https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/lesson-1.html)
 
 **Exercice :**
