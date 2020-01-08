@@ -5,7 +5,7 @@ Arthur Charpentier, [@freakonometrics](https://twitter.com/freakonometrics)
 Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 ```diff
-- (30 décembre 2019) mise à jour de la page
+- (8 janvier 2020) rajout d'un article dans la liste
 ```
 
 
@@ -33,6 +33,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - [Efron, Hastie, Johnstone & Tibshirani (2004)](http://statweb.stanford.edu/~tibs/ftp/lars.pdf) *Least Angle Regression*
 - [Friedman (1991)](https://projecteuclid.org/euclid.aos/1176347963) *Multivariate Adaptive Regression Splines*
 - [Golub and Reinsch (1970)](https://link.springer.com/article/10.1007/BF02163027) *Singular Value Decomposition and Least Squares Solutions*
+- [Li (1991)](https://www.jstor.org/stable/2290563) *Sliced Inverse Regression for Dimension Reduction * 
 - [Zhou, Li & Zhu (2013)](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2013.776499) *Tensor regression with applications in neuroimaging data analysis*
 - [Wang, Meng & Tenenhaus (2009)](https://link.springer.com/chapter/10.1007%2F978-3-540-32827-8_18) *Regression Modelling Analysis on Compositional Data*  
 - [Cox (1972)](https://www.jstor.org/stable/2985181) *Regression Models and Life-Tables*
