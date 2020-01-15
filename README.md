@@ -35,8 +35,8 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - [Golub and Reinsch (1970)](https://link.springer.com/article/10.1007/BF02163027) *Singular Value Decomposition and Least Squares Solutions* (choisi)
 - [Li (1991)](https://www.jstor.org/stable/2290563) *Sliced Inverse Regression for Dimension Reduction * 
 - [Zhou, Li & Zhu (2013)](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2013.776499) *Tensor regression with applications in neuroimaging data analysis*
-- [Wang, Meng & Tenenhaus (2009)](https://link.springer.com/chapter/10.1007%2F978-3-540-32827-8_18) *Regression Modelling Analysis on Compositional Data*  
-- [Cox (1972)](https://www.jstor.org/stable/2985181) *Regression Models and Life-Tables*
+- [Wang, Meng & Tenenhaus (2009)](https://link.springer.com/chapter/10.1007%2F978-3-540-32827-8_18) *Regression Modelling Analysis on Compositional Data*  (choisi)
+- [Cox (1972)](https://www.jstor.org/stable/2985181) *Regression Models and Life-Tables* (choisi)
 - [Belloni, Chernozhukov & Kato (2013)](http://www.cemmap.ac.uk/wps/cwp701313.pdf) *Robust inference in high-dimensional approximately sparse quantile regression models* (choisi)
 - [Best & Chakravarti N. (1990)](https://link.springer.com/article/10.1007%2FBF01580873) *Active set algorithms for isotonic regression; a unifying framework*
 - [Chavez-Demoulin & Davison (2005)](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1467-9876.2005.00479.x) *Generalized additive modelling of sample extremes*
