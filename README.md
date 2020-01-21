@@ -39,7 +39,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - [Cox (1972)](https://www.jstor.org/stable/2985181) *Regression Models and Life-Tables* (choisi)
 - [Belloni, Chernozhukov & Kato (2013)](http://www.cemmap.ac.uk/wps/cwp701313.pdf) *Robust inference in high-dimensional approximately sparse quantile regression models* (choisi)
 - [Best & Chakravarti N. (1990)](https://link.springer.com/article/10.1007%2FBF01580873) *Active set algorithms for isotonic regression; a unifying framework*
-- [Chavez-Demoulin & Davison (2005)](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1467-9876.2005.00479.x) *Generalized additive modelling of sample extremes*
+- [Chavez-Demoulin & Davison (2005)](https://rss.onlinelibrary.wiley.com/doi/10.1111/j.1467-9876.2005.00479.x) *Generalized additive modelling of sample extremes* (choisi)
 - [Phatak & De Jong (1998)](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-128X(199707)11:4%3C311::AID-CEM478%3E3.0.CO;2-4) *The geometry of partial least squares* (choisi)
 - [Owen & Prieur (2017)](https://arxiv.org/abs/1610.02080) *On Shapley value for measuring importance of dependent inputs*
 - [Fox & Monette (1990)](https://www.tandfonline.com/doi/abs/10.1080/01621459.1992.10475190) *Generalized Collinearity Diagnostics*
