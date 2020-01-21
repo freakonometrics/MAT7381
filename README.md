@@ -25,6 +25,23 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - [exercices.pdf](docs/MAT7381-exercices-03012020.pdf) (et les [données](data/))
 - pour ceux qui veulent se remettre en jambes en statistiques [exos-1.pdf](docs/exos-stats-2016-1.pdf) et [exos-2.pdf](docs/exos-stats-2016-2-1.pdf) 
 
+**Données :**
+
+``` r
+Davis = read.table(
+"http://socserv.socsci.mcmaster.ca/jfox/Books/Applied-Regression-2E/datasets/Davis.txt")
+Davis[12,c(2,3)] = Davis[12,c(3,2)]
+str(Davis)
+
+chicago = read.table("http://freakonometrics.free.fr/chicago.txt",header=TRUE,sep=";")
+str(chicago)
+
+# install.packages(DALEX)
+library(DALEX)
+data(apartments, package = "DALEX")
+str(apartments)
+```
+
 **Devoir : lecture d'article**
 
 - [Candes & Tao (2005)](https://arxiv.org/pdf/math/0502327.pdf) *Decoding by Linear Programming* 
