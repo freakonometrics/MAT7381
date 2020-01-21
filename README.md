@@ -5,7 +5,7 @@ Arthur Charpentier, [@freakonometrics](https://twitter.com/freakonometrics)
 Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 ```diff
-- (8 janvier 2020) rajout d'un article dans la liste
+- (20 janvier 2020) nouvel exercice: 24
 ```
 
 
@@ -22,7 +22,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 **Exercice :**
 
-- [exercices.pdf](docs/MAT7381-exercices-03012020.pdf)
+- [exercices.pdf](docs/MAT7381-exercices-03012020.pdf) (et les [données](data/))
 - pour ceux qui veulent se remettre en jambes en statistiques [exos-1.pdf](docs/exos-stats-2016-1.pdf) et [exos-2.pdf](docs/exos-stats-2016-2-1.pdf) 
 
 **Devoir : lecture d'article**
