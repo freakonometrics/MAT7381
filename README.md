@@ -5,7 +5,7 @@ Arthur Charpentier, [@freakonometrics](https://twitter.com/freakonometrics)
 Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 ```diff
-- (20 janvier 2020) nouvel exercice: 24
+- (17 février 2020) nouvel exercice: 37
 ```
 
 
@@ -20,7 +20,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - Yihui Xie, J. J. Allaire & Garrett Grolemund, R Markdown: The Definitive Guide [https://bookdown.org/yihui](https://bookdown.org/yihui/rmarkdown/)
 - RStudio, R Markdown [https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/lesson-1.html)
 
-**Exercice :**
+**Exercice :** 
 
 - [exercices.pdf](docs/MAT7381-exercices-03012020.pdf) (et les [données](data/))
 - pour ceux qui veulent se remettre en jambes en statistiques [exos-1.pdf](docs/exos-stats-2016-1.pdf) et [exos-2.pdf](docs/exos-stats-2016-2-1.pdf) 
