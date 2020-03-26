@@ -67,16 +67,16 @@ str(database)
 La dernière variable, `visites.1` est malheurement la variable `visites` dupliquée, il conviendra de la supprimer.
 
 ``` diff
-- (7 Novembre 2019) la base est en ligne
+- (26 mars 2019) la base est en ligne
 ```
 
 Le but du devoir est de mettre en oeuvre, sur des vraies donnees, les
 techniques exposees en cours.
 
-  - Date limite pour envoyer le devoir **20 décembre** a **minuit**,
+  - Date limite pour envoyer le devoir **1er mai** a **midi**,
   - Chaque etudiant(e) doit envoyer via Moodle deux fichiers :
-    `devoir2-ABCD12345678.hmtl`, output d’un fichier
-    `devoir2-ABCD12345678.Rmd` (il faudra envoyer les deux fichiers), où
+    `devoir-ABCD12345678.hmtl`, output d’un fichier
+    `devoir-ABCD12345678.Rmd` (il faudra envoyer les deux fichiers), où
     `ABCD12345678` doit être remplacé par le code permanent de
     l’étudiant(e). Le fichier `devoir2-ABCD12345678.hmtl` doit etre
     lisible et le fichier `devoir2-ABCD12345678.Rmd` doit compiler sans
@@ -103,5 +103,3 @@ techniques exposees en cours.
   - Les techniques de validation croisee, ou la constitution de bases
     d’apprentissage et de test *ne sont pas au programme* et ne
     devront pas etre utilisee ici \!
-  - Les seuls packages autorises (sauf autorisation explicite) sont
-    `MASS`, `lmtest`, `counts`, `nortest`, `car`, `splines`, `AER`, `pROC`, `plotROC`, `verification`, `ROCR`, `dplyr`, `aod`, `vcd`, `statmod` (et les dépendances associées)
