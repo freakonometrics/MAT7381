@@ -4,9 +4,9 @@ Arthur Charpentier
 
 ``` r
 code_permanent = "ABCD12345678"
-loc_fichier = paste("http://freakonometrics.free.fr/",code_permanent,"A2019D2.RData",sep="")
-download.file(loc_fichier, "base_devoir_2.RData")
-load("base_devoir_2.RData")
+loc_fichier = paste("http://freakonometrics.free.fr/",code_permanent,"A2020D.RData",sep="")
+download.file(loc_fichier, "base_devoir.RData")
+load("base_devoir.RData")
 dim(database)
 ```
 
@@ -67,7 +67,7 @@ str(database)
 La dernière variable, `visites.1` est malheurement la variable `visites` dupliquée, il conviendra de la supprimer.
 
 ``` diff
-- (26 mars 2019) la base est en ligne
+- (26 mars 2020) la base est en ligne
 ```
 
 Le but du devoir est de mettre en oeuvre, sur des vraies donnees, les
@@ -78,8 +78,8 @@ techniques exposees en cours.
     `devoir-ABCD12345678.hmtl`, output d’un fichier
     `devoir-ABCD12345678.Rmd` (il faudra envoyer les deux fichiers), où
     `ABCD12345678` doit être remplacé par le code permanent de
-    l’étudiant(e). Le fichier `devoir2-ABCD12345678.hmtl` doit etre
-    lisible et le fichier `devoir2-ABCD12345678.Rmd` doit compiler sans
+    l’étudiant(e). Le fichier `devoir-ABCD12345678.hmtl` doit etre
+    lisible et le fichier `devoir-ABCD12345678.Rmd` doit compiler sans
     erreur,
   - Dans le preambule du markdown, `author:` doit mentionner le code
     permanent,
