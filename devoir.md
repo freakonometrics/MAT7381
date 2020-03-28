@@ -1,4 +1,4 @@
-STT5100 - Devoir 2 - Automne 2019
+MAT7381 - Devoir 
 ================
 Arthur Charpentier
 
@@ -102,4 +102,4 @@ techniques exposees en cours.
 
   - Les techniques de validation croisee, ou la constitution de bases
     d’apprentissage et de test *ne sont pas au programme* et ne
-    devront pas etre utilisee ici \!
+    devront pas etre utilisées ici \!
