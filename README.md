@@ -8,15 +8,16 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - (30 mars 2020) reprise de la session, je poste les vidéos au fur et à mesure
 ```
 
-
 **"Notes de cours" et codes + vidéos (partie GLM) :**
 
 - [MAT7381.html](http://freakonometrics.free.fr/MAT7381/MAT7381-H2020.html)
 - (0) agenda [video](https://vimeo.com/401441666) + [pdf](/covid/GLM-0.pdf) 
 - (1) lois Bernoulli, binomiale, multnomiale [video](https://vimeo.com/401464711) + [pdf](/covid/GLM-1.pdf) 
-- (2) agenda [video](https://vimeo.com/401471254) + [pdf](/covid/GLM-2.pdf) 
-- (3) agenda [video](https://vimeo.com/401971316) + [pdf](/covid/GLM-3.pdf) 
-- (4) agenda [video](https://vimeo.com/401969127) + [pdf](/covid/GLM-4.pdf) 
+- (2) régression logistique (Bernoulli) [video](https://vimeo.com/401471254) + [pdf](/covid/GLM-2.pdf) 
+- (3) régression multinomiale [video](https://vimeo.com/401971316) + [pdf](/covid/GLM-3.pdf) 
+- (4) régression logistique sur variables catégorielles [video](https://vimeo.com/401969127) + [pdf](/covid/GLM-4.pdf)
+- (5) régression logistique sur variables continues [video](https://vimeo.com/) + [pdf](/covid/GLM-5.pdf)
+- (6) analyse discriminante et courbe ROC [video](https://vimeo.com/) + [pdf](/covid/GLM-6.pdf)
 
 **Références en R :**
 
@@ -29,6 +30,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 - [exercices.pdf](docs/MAT7381-exercices-03012020.pdf) (et les [données](data/))
 - pour ceux qui veulent se remettre en jambes en statistiques [exos-1.pdf](docs/exos-stats-2016-1.pdf) et [exos-2.pdf](docs/exos-stats-2016-2-1.pdf) 
+- [devoir](https://github.com/freakonometrics/MAT7381/blob/master/devoir.md)) (à rendre pour le 1er mai) 
 
 **Examen :**
 
