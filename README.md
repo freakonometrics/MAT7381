@@ -5,13 +5,18 @@ Arthur Charpentier, [@freakonometrics](https://twitter.com/freakonometrics)
 Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 ```diff
-- (3 mars 2020) correction en ligne
+- (30 mars 2020) reprise de la session, je poste les vidéos au fur et à mesure
 ```
 
 
-**"Notes de cours" et codes :**
+**"Notes de cours" et codes + vidéos (partie GLM) :**
 
 - [MAT7381.html](http://freakonometrics.free.fr/MAT7381/MAT7381-H2020.html)
+- (0) agenda [video](https://vimeo.com/401441666) + [pdf](/covid/GLM-0.pdf) 
+- (1) lois Bernoulli, binomiale, multnomiale [video](https://vimeo.com/401464711) + [pdf](/covid/GLM-1.pdf) 
+- (2) agenda [video](https://vimeo.com/401471254) + [pdf](/covid/GLM-2.pdf) 
+- (3) agenda [video](https://vimeo.com/401971316) + [pdf](/covid/GLM-3.pdf) 
+- (4) agenda [video](https://vimeo.com/401969127) + [pdf](/covid/GLM-4.pdf) 
 
 **Références en R :**
 
