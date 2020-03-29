@@ -30,7 +30,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 
 - [exercices.pdf](docs/MAT7381-exercices-03012020.pdf) (et les [données](data/))
 - pour ceux qui veulent se remettre en jambes en statistiques [exos-1.pdf](docs/exos-stats-2016-1.pdf) et [exos-2.pdf](docs/exos-stats-2016-2-1.pdf) 
-- [devoir](https://github.com/freakonometrics/MAT7381/blob/master/devoir.md)) (à rendre pour le 1er mai) 
+- [devoir](https://github.com/freakonometrics/MAT7381/blob/master/devoir.md) (à rendre pour le 1er mai) 
 
 **Examen :**
 
