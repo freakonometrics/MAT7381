@@ -16,8 +16,10 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - (2) régression logistique (Bernoulli) [video](https://vimeo.com/401471254) + [pdf](/covid/GLM-2.pdf) 
 - (3) régression multinomiale [video](https://vimeo.com/401971316) + [pdf](/covid/GLM-3.pdf) 
 - (4) régression logistique sur variables catégorielles [video](https://vimeo.com/401969127) + [pdf](/covid/GLM-4.pdf)
-- (5) régression logistique sur variables continues [video](https://vimeo.com/) + [pdf](/covid/GLM-5.pdf)
-- (6) analyse discriminante et courbe ROC [video](https://vimeo.com/) + [pdf](/covid/GLM-6.pdf)
+- (5) régression logistique sur variables continues [video](https://vimeo.com/402262213) + [pdf](/covid/GLM-5.pdf)
+- (6) analyse discriminante et courbe ROC [video](https://vimeo.com/402261818) + [pdf](/covid/GLM-6.pdf)
+- (7) modèles de comptage et loi de Poisson [video](https://vimeo.com/402261657) + [pdf](/covid/GLM-7.pdf)
+- (8) régression de Poisson [video](https://vimeo.com/402261431) + [pdf](/covid/GLM-8.pdf)
 
 **Références en R :**
 
