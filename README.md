@@ -20,6 +20,18 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - (6) analyse discriminante et courbe ROC [video](https://vimeo.com/402261818) + [pdf](/covid/GLM-6.pdf)
 - (7) modèles de comptage et loi de Poisson [video](https://vimeo.com/402261657) + [pdf](/covid/GLM-7.pdf)
 - (8) régression de Poisson [video](https://vimeo.com/402261431) + [pdf](/covid/GLM-8.pdf)
+- (9) régression de Poisson et interprétations [video](https://vimeo.com/402630775) + [pdf](/covid/GLM-9.pdf)
+- (10) régression de Poisson et méthode des marges video + [pdf](/covid/GLM-10.pdf)
+- (11) régression de Poisson et application en assurance [video](https://vimeo.com/402630298) + [pdf](/covid/GLM-11.pdf)
+- (12) famille exponentielle [video](https://vimeo.com/402630535) + [pdf](/covid/GLM-12.pdf)
+- (13) famille exponentielle et GLM [video](https://vimeo.com/402631017) + [pdf](/covid/GLM-13.pdf)
+- (14) loi et lien video + [pdf](/covid/GLM-14.pdf)
+- (15) déviance et résidus video+ [pdf](/covid/GLM-15.pdf)
+- (16) modèle Tweedie et poids video + [pdf](/covid/GLM-16.pdf)
+- (17) surdispersion video + [pdf](/covid/GLM-17.pdf)
+- (18) tests et GLM video + [pdf](/covid/GLM-18.pdf)
+- (19) GLM en petite dimension video + [pdf](/covid/GLM-19.pdf)
+- (20) méthode stepwise video + [pdf](/covid/GLM-20.pdf)
 
 **Références en R :**
 
