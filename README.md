@@ -32,6 +32,7 @@ Plan de cours : [Plan_MAT7381_H2020pdf](docs/PlanMAT7381.pdf)
 - (18) tests et GLM video + [pdf](/covid/GLM-18.pdf)
 - (19) GLM en petite dimension video + [pdf](/covid/GLM-19.pdf)
 - (20) méthode stepwise video + [pdf](/covid/GLM-20.pdf)
+- (21) Poisson vs. Binomiale video + [pdf](/covid/GLM-21.pdf)
 
 **Références en R :**
 
